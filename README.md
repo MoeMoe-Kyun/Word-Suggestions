@@ -3,5 +3,4 @@ These are words I think should exist in English, but don't. There are many times
 
 ## Vocabulary
 1. Yukari, noun, informal, <IPA>, a yuri addict,
-2. Marisa, noun, informal, <IPA>, a recreational yuri user, not yet an addict,
-3. Cirno, noun, informal, <IPA>, an endearing idiot.
+2. Cirno, noun, informal, <IPA>, an endearing idiot.
